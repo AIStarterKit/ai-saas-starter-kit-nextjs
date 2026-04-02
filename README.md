@@ -1,6 +1,6 @@
 # AI SaaS Starter Template Kit for Next.js and Tailwind CSS
 
-This is free and open source version of **AIStarterKit.dev** - A full-stack starter template kit for building AI-driven SaaS applications, crafted using **Next.js** and **Tailwind CSS**.
+This is free and open source version of **AI Starter Kit** by [Next.js Templates](https://nextjstemplates.com) - A full-stack starter template kit for building AI-driven SaaS applications, crafted using **Next.js** and **Tailwind CSS**.
 
 ![AI Starter Kit](./ai-starter-kit.png)
 
@@ -9,10 +9,8 @@ This is free and open source version of **AIStarterKit.dev** - A full-stack star
 
 ### Quick Links
 
-- [✨ Visit Website](https://aistarterkit.dev)
-- [📄 Documentation](https://aistarterkit.dev/docs)
-- [🚀 View Demo](https://demo.aistarterkit.dev)
-- [⚡ Get PRO Version](https://aistarterkit.dev/pricing)
+- [✨ AI Starter Kit](https://nextjstemplates.com/templates/ai-starter-kit)
+- [🚀 View Demo](https://demo.aistarterkit.nextjstemplates.com/)
 
 If you are looking for AI SaaS Starter Kit, that can save you hundreds of hours and allow you to launch 100x faster, **AIStarterKit** is perfect choice for you
 
